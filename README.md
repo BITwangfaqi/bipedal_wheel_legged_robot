@@ -5,7 +5,7 @@ This video presents a wheel-legged robot with a novel mechanical structure, desi
 (2) Trajectory Tracking;
 (3) Terrain Adaptation: 
 (4) Lateral Obstacle Avoidance; 
-(5) Autonomous Recovery from Tip-Over.
+(5) Automated Recovery from Tip-Over.
 
 Minimum Requirements:
    - Video Format: MP4
